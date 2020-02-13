@@ -67,4 +67,8 @@ section > h1 {
 .social > li {
   display: inline-block;
   margin: 0 5px;
+
+#lyric{
+  color: #08661c
+}
 }
